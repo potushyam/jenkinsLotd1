@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;TestData.xlsx&apos; to &apos;TestData&apos;&#x0D;&#x0A;- Original project: &apos;LotdMavaenProject&apos;&#x0D;&#x0A;- Destination element: &apos;TestData&apos;&#x0D;&#x0A;- Original element: &apos;TestData.xlsx&apos;" description="Copy file" element1="TestData/TestData.xlsx" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1535873634598" target="/Lotd.com/TestData" units="0" version="1.0"/>
+</session>

@@ -1,0 +1,15 @@
+package com.org.lotd.LotdMavaenProject;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.testng.annotations.Test;
+
+public class LunchLotdHomePage {
+	@Test
+	public void lunchhomepage() {
+		System.out.println("Lotd Home Page is Scessfully Lunched");
+		WebDriver driver=new FirefoxDriver();
+		driver.get("https://lotd.com/");
+	}
+
+}
